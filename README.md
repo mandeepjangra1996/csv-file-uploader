@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # csv-file-uploader
 =======
 CSV_Upload
@@ -26,4 +25,4 @@ CSV_Upload/
 ├── .gitignore
 ├── package.json
 ├── README.md
->>>>>>> master
+
