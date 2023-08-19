@@ -15,6 +15,10 @@ There is a sorting button (ascending and descending) for each column on the fron
 There is a validation on the front end and server side on being able to upload only csv type of files
 There is a pagination of the data displayed in the table to a max of 100 records per page
 
+## Description
+
+CSV File Uploader is a web application that allows users to upload CSV (Comma-Separated Values) files and perform data processing tasks on the uploaded data. This application simplifies the process of uploading and working with CSV data.
+
 Packages Install
 Body-parser
 csv-parser
@@ -93,8 +97,19 @@ Live Link : https://mandeepjangra1996.github.io/csv-file-uploader/
 
 - [@mandeepjangra1996](https://github.com/mandeepjangra1996)
 
-
 ## Features
-======= CSV_Upload CSV_Upload is a user-friendly web application designed for uploading and parsing CSV files. Developed using Node.js and Express, it offers a straightforward interface to facilitate seamless management of CSV data.
 
-Folder Structure CSV_Upload/ |── |assets/ │ | ├── css/ │ │ | ├── styles.css │ | ├── js/ │ | ├── script.js │ ├── uploads/ │ ├── index.html | | ├── routes/ │ ├── csvRoutes.js | | ├── controllers/ │ ├── csvController.js | | ├── models/ │ ├── csvModel.js | | ├── .gitignore ├── package.json ├── README.md
+- **CSV File Upload:** Upload CSV files containing data to be processed and analyzed.
+
+- **Data Preview:** Preview the uploaded data before processing to ensure accuracy.
+
+- **Data Processing:** Perform various data processing tasks, such as filtering, sorting, and basic calculations.
+
+- **Download Processed Data:** Download the processed data in CSV format for further analysis.
+
+- **User-Friendly Interface:** A clean and intuitive interface for seamless interaction with the application.
+
+- **Error Handling:** Implement error handling to provide informative messages to users in case of issues.
+
+- **Responsive Design:** Access the application from different devices with a responsive design.
+
